@@ -6,7 +6,7 @@ import time
 from discord.ext import commands
 
 class creds:
-    bot_token="Nzg4MTE5OTQwMTUwMzI5MzQ1.X9e35A.8w5dzhLUCwtiMir5kOE5Iq43qjA"            # Discord bot token
+    bot_token=""            # Discord bot token
     voice_channel_id=42       # The channel you want the bot to play music in (DO NOT USE STrING!)
     text_channel_id=344093490038439936      # The channel you want the bot to write the song name in (can't be a voice channel) (DO NOT USE STING!)
 
